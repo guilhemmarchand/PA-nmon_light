@@ -1,4 +1,4 @@
-# PA-nmon_light, Indexers Technical Addon for Nmon Performance Monitor - Splunk Enterprise
+# PA-nmon_light, Indexers Addon for Nmon Performance Monitor - Splunk Enterprise
 
 Copyright 2014-2018 Guilhem Marchand
 
